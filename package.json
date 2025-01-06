@@ -1,6 +1,6 @@
 {
   "name": "js-xiemu",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "JS文件仓库",
   "main": "index.js",
   "scripts": {
